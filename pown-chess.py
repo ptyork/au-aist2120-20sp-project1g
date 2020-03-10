@@ -1,13 +1,13 @@
 # Game board is a "dictionary" of strings.
 # Keys will be to board "coordinates" (col+row...e.g., "C2").
 # Values will be '', 'w' or 'b'.
-game_board = {}
+chess_board = {}
 
 # Write code to initialize the dictionary here
-# (e.g., game_board['A1'] = .......)
+# (e.g., chess_board['A1'] = .......)
 
 # write a function that shows the board according to the instructions
-def display_board():
+def show_board():
     # do your thing here
     return
 
